@@ -32,3 +32,4 @@ print(a)
 arr1=1 in arr
 # O(n) because we have to search for the element in the list
 print(arr1)
+
